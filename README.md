@@ -3,8 +3,7 @@ YOLO version 3
 
 uploaing...
 
-<h1 align="center" > A 1D CNN for high accuracy classification and transfer learning in motor 
-imagery EEG-based brain-computer interface </h1>
+<h1 align="center" > YOLO version 3 </h1>
 
 
 <p align="center">
